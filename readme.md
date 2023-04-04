@@ -3,7 +3,7 @@
 ### Steps to generate csv file for any year ###
 
 * Clone the project
-* Visit this JOSAA site 
+* Visit this JOSAA site [here](https://josaa.admissions.nic.in/Applicant/seatallotmentresult/currentorcr.aspx)
 * Download the page after loading data
 * Save it as JoSAA.html
 * Install the python modules with the command `pip install -r requirements.txt`
