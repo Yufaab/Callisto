@@ -1,4 +1,4 @@
-## Data Scrapper for Josaa couselling site
+# Data Scrapper for Josaa couselling site
 
 ### Steps to generate csv file for any year ###
 
